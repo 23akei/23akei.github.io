@@ -2,6 +2,7 @@ baseURL = 'http://23akei.github.io/'
 languageCode = 'ja-JP'
 title = '神田智也のページ'
 theme = "hugo-resume"
+publishDir = "docs"
 
 [params]
 address = "Tsukuba, Japan"
