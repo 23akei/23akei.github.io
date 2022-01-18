@@ -1,0 +1,30 @@
+baseURL = 'http://23akei.github.io/'
+languageCode = 'ja-JP'
+title = '神田智也のページ'
+theme = "hugo-resume"
+
+[params]
+address = "Tsukuba, Japan"
+email = "tomoya.kanda.2022b★mlab.info  (★→@)"
+favicon = "/favicon.ico"
+firstName = "Tomoya"
+lastName = "Kanda"
+phone = ""
+profileImage = "img/face.jpeg"
+showEducation = false
+showExperience = false
+showOpenSource = false
+showProjects = false
+showPublications = false
+showQr = false
+showSkills = false
+
+[[params.handles]]
+link = "https://github.com/23akei/"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
