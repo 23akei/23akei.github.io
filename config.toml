@@ -4,6 +4,11 @@ title = '神田智也のページ'
 theme = "hugo-resume"
 publishDir = "docs"
 
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
 [params]
 address = "Tsukuba, Japan"
 email = "tomoya.kanda.2022b★mlab.info  (★→@)"
