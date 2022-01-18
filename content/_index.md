@@ -2,6 +2,9 @@
 title: "Home"
 date: 2022-01-18T16:04:17+09:00
 draft: false
+
+sitemap:
+  priority : 1.0
 outputs:
 - html
 - rss
