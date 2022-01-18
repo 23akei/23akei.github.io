@@ -31,6 +31,3 @@ name = "GitHub"
 
 [outputs]
 home = ["HTML", "JSON"]
-
-[taxonomies]
-tag = "tags"
