@@ -13,3 +13,7 @@ outputs:
 神田智也  
 筑波大学 情報学群 知識情報・図書館学類  
 融合知能デザイン研究室  
+
+ <a class="microtask repeat" href="//crowd4u.org">
+        <img src="http://crowd4u.org/img/crowd4u_banner364x93.png">
+  </a>
